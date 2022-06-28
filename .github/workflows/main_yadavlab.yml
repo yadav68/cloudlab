@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'YadavLab'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99EB59656ED946529B3DC8919F4ADB86 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07B89DD901CE4618B926B0964DF19205 }}
           package: .
